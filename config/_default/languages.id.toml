@@ -1,0 +1,14 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Beyond the Shore"
+contentDir = "content/id"
+
+[params]
+displayName = "ID"
+isoCode = "id"
+rtl = false
+description = "Posei blog"
+dateFormat = "2 January 2006"
+logo = "logo"
+author = { name = "GameDev: Beyond the Shore", image = "logo.png", headline = "Set sail on the next chapter of your game development journey in GameDev: Beyond the Shore, where creativity and skill collide to forge new worlds. Designed for high school students ready to level up, this course takes you deeper into the craft of game design and programming, building on the foundations of the past while exploring uncharted territories." }

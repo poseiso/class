@@ -1,0 +1,82 @@
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+mainSections = [ "posts" ]
+defaultBackgroundImage = "sky.png"
+defaultFeaturedImage = "sky.png"
+
+[header]
+layout = "basic"
+
+[footer]
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "background"
+showRecent = true
+showRecentItems = "6"
+showMoreLink = true
+showMoreLinkDest = "/posts"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
+homepageImage = "sky.png"
+
+[article]
+showDate = true
+showDateUpdated = false
+showAuthor = false
+showHero = true
+heroStyle = "background"
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = false
+invertPagination = false
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = true
+showAuthorsBadges = true
+showWordCount = true
+showSummary = true
+sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email" ]
+layoutBackgroundBlur = true
+showRelatedContent = true
+showZenMode = true
+relatedContentLimit = "3"
+
+[list]
+showBreadcrumbs = false
+showSummary = true
+showTableOfContents = false
+showCards = false
+groupByYear = true
+cardView = false
+cardViewScreenWidth = false
+constrainItemsWidth = true
+heroStyle = "background"
+showHero = false
+
+[sitemap]
+excludedKinds = []
+
+[taxonomy]
+showTermCount = true
+showHero = false
+cardView = false
+showTableOfContents = true
+showBreadcrumbs = true
+
+[firebase]
+
+[fathomAnalytics]
+
+[verification]
