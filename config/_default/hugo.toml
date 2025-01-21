@@ -21,3 +21,5 @@ priority = 0.5
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
+
+timeout = "180s"
