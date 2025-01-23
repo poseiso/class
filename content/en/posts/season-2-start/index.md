@@ -3,7 +3,7 @@ title: "Announcing: GameDev Season 2 – Beyond the Shore 🌊"
 summary: "Welcome back, creators! A new adventure awaits as GameDev: Beyond the Shore kicks off this season. Whether you're a returning student or setting sail with us for the first time, we’re excited to see what incredible worlds you’ll create this time around."
 categories: ["Post","Blog",]
 tags: ["announcement"]
-date: 2024-01-21
+date: 2025-01-21
 draft: false
 ---
 {{% zenmode-enabled %}}
