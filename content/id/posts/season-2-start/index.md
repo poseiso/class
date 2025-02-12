@@ -1,6 +1,7 @@
 ---
 title: "Announcing: GameDev Season 2 – Beyond the Shore 🌊"
-summary: "Selamat datang kembali, developer! Petualangan baru menanti saat GameDev: Beyond the Shore dimulai pada musim ini. Baik siswa lama yang kembali berlayar atau pertam kali, aku sangat antusias untuk melihat dunia luar biasa apa yang akan rekans ciptakan kali ini"
+summary: "Selamat datang kembali, developer! Petualangan baru menanti saat GameDev: Beyond the Shore dimulai pada musim ini. Baik siswa lama yang kembali berlayar atau pertam kali"
+
 categories: ["Post","Blog",]
 tags: ["announcement"]
 date: 2025-01-21
