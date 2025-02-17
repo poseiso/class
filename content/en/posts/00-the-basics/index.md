@@ -13,6 +13,10 @@ and that is the godot engine itself
 - instruction to download the latest version from the website-
 and that's all you need
 
+If you have never programmed like NEVER before
+here's the basic of basic things you need to know:
+[Link to post]
+
 Now let's create a new project
 open the downloaded godot
 this will be the godot project management screen
