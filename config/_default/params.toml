@@ -6,6 +6,7 @@ enableCodeCopy = true
 mainSections = [ "posts" ]
 defaultBackgroundImage = "sky.png"
 defaultFeaturedImage = "sky.png"
+disableImageOptimization = true
 
 [header]
 layout = "basic"
@@ -80,3 +81,4 @@ showBreadcrumbs = true
 [fathomAnalytics]
 
 [verification]
+
