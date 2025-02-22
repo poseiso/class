@@ -32,7 +32,7 @@ jobs:
     steps:
 
       - name: Hugo setup
-        uses: peaceiris/actions-hugo@v2.6.0
+        uses: peaceiris/actions-hugo@v3
         with: 
           hugo-version: 0.120.4
           extended: true
@@ -47,7 +47,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v5
 
       - name: Build with Hugo
         env:
@@ -58,7 +58,7 @@ jobs:
           hugo --minify -d ./public --baseURL https://class.posei.me/
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -72,4 +72,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
