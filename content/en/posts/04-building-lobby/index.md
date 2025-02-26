@@ -65,8 +65,8 @@ In many side-scrolling games, you might see separate images for the moon, buildi
 ![spr_outskirts_rock](spr_outskirts_rock.png)
 ![spr_outskirts_pillar](spr_outskirts_pillar.png)
 ![spr_outskirts_pillar2](spr_outskirts_pillar2.png)
-![spr_outskirts_sreets_0](spr_outskirts_sreets_0.png)
-![spr_outskirts_sreets_1](spr_outskirts_sreets_1.png)
+![spr_outskirts_sreets_0](spr_outskirts_streets_0.png)
+![spr_outskirts_sreets_1](spr_outskirts_streets_1.png)
 ![spr_effect_particle_0](spr_effect_particle_0.png)
 
 Here’s what our scene will look like when we’re done:
@@ -102,7 +102,7 @@ Each `Sprite2D` node has a **Modulate** property under **CanvasItem** in the Ins
 
 If you’re curious about the overall node layout, here’s an example:
 
-![Node Arrangement](node_arrangement.png)
+![Node Arrangement](grad_1.png)
 
 ### Adding a Gradient Backdrop
 A single solid color might feel too plain. Instead, add a `TextureRect` node as a child of **Background**. You can set its size to fill the screen and then apply a **Gradient** texture. Adjust the gradient’s colors in the Inspector to create a smooth transition (e.g., a dusk sky shifting from a deep purple at the top to a lighter blue at the horizon).

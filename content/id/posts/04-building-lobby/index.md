@@ -52,7 +52,6 @@ Ini "referensi" kita:
 
 ## Observing the Reference
 Kalau kamu lihat beberapa game side-scroller, biasanya ada layer terpisah: misalnya bulan, gedung, pegunungan, dan objek foreground. Layer-layer ini bisa digerakkan dengan kecepatan berbeda (parallax) buat ngasih efek jarak. Di contoh kita, kita mulai dengan layer statis, tapi tersusun rapi.
-
 Berikut beberapa aset yang kita gunakan:
 
 ![spr_outskirts_cluster](spr_outskirts_cluster.png)
@@ -67,8 +66,8 @@ Berikut beberapa aset yang kita gunakan:
 ![spr_outskirts_rock](spr_outskirts_rock.png)
 ![spr_outskirts_pillar](spr_outskirts_pillar.png)
 ![spr_outskirts_pillar2](spr_outskirts_pillar2.png)
-![spr_outskirts_sreets_0](spr_outskirts_sreets_0.png)
-![spr_outskirts_sreets_1](spr_outskirts_sreets_1.png)
+![spr_outskirts_sreets_1](spr_outskirts_streets_0.png)
+![spr_outskirts_sreets_0](spr_outskirts_streets_1.png)
 ![spr_effect_particle_0](spr_effect_particle_0.png)
 
 Ketika sudah kita gabung, hasil akhirnya akan seperti ini:
@@ -104,7 +103,7 @@ Masing-masing `Sprite2D` punya property **Modulate** di **CanvasItem** untuk men
 
 Buat gambaran, berikut contoh susunan node yang kupakai:
 
-![Node Arrangement](node_arrangement.png)
+![Node Arrangement](grad_1.png)
 
 ### Adding a Gradient Backdrop
 Kalau hanya pakai solid color, kadang kurang menarik. Jadi, tambahkan `TextureRect` di dalam node **Background** dan buat ukurannya menutupi seluruh layar, lalu atur **Texture**-nya menjadi **Gradient**. Di Inspector, sesuaikan warna gradient, misalnya mulai dari ungu gelap di atas ke biru muda di bawah, memberi efek langit senja.
