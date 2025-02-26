@@ -112,12 +112,6 @@ Kalau hanya pakai solid color, kadang kurang menarik. Jadi, tambahkan `TextureRe
 
 <video src="gradient_setting.mp4" controls></video>
 
-Berikut beberapa contoh setting:
-
-![Gradient Setting 1](grad_1.png)  
-![Gradient Setting 2](grad_2.png)  
-![Gradient Setting 3](grad_3.png)
-
 Dengan ini, background di lobby sudah lebih hidup. Ada layer-layer dan warna yang saling mendukung, tanpa perlu tilemap rumit.
 
 ---
